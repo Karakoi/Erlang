@@ -19,3 +19,4 @@ spanish(Word) ->
   case Word of
     'friend' -> 'amigo'
   end.
+
